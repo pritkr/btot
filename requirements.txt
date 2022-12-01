@@ -10,4 +10,4 @@ requests_html==0.10.0
 schedule==1.1.0
 selenium==4.6.1
 tabula==1.0.5
-chromedriver-py==108.0.5359.71
+chromedriver-binary==108.0.5359.71.0
