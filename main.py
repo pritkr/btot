@@ -36,8 +36,8 @@ DATABASE = ''
 
 TOKEN = ''
 
-CHROMEDRIVER_PATH = '/app/.chromedriver/bin/chromedriver'
-GOOGLE_CHROME_BIN = '/app/.apt/usr/bin/google-chrome'
+CHROMEDRIVER_PATH = '/usr/bin/chromedriver'
+GOOGLE_CHROME_BIN = '/usr/bin/chromium'
 
 chrome_options = Options()
 WINDOW_SIZE = "1920,2000"
